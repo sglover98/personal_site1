@@ -1,5 +1,4 @@
 import React from 'react'
-import Navbar from './components-home/Nav';
 import Intro from './components-home/Intro';
 import Story from './components-home/whoami'
 
