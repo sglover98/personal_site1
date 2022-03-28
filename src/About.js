@@ -1,5 +1,5 @@
 import React from 'react'
-import '/Users/stanleyglover/Desktop/personal_site/src/App.css';
+import './App.css';
 import Description from "./components-about/Decription.js";
 import Techstack from './components-about/TechStack.js';
 import ItStack from './components-about/ITStack.js';

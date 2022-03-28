@@ -1,7 +1,7 @@
 import React from 'react'
 import { Container, Row, Col } from "react-bootstrap";
 import Typewriter from './Typewriter';
-import Skull from "/Users/stanleyglover/Desktop/personal_site/src/assets/cyber-attack (1).png"
+import Skull from "../assets/cyber-attack (1).png"
 
 export default function intro() {
   return (

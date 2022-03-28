@@ -4,7 +4,6 @@ import Navbar from './components-home/Nav';
 import Home from './Home';
 import About from './About';
 import Project from './Project';
-import Resume from './Resume';
 import { BrowserRouter as Router, Route, Routes, } from 'react-router-dom';
 
 function App() {
