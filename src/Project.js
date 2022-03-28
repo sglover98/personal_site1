@@ -57,7 +57,7 @@ export default function Project() {
               isBlog={false}
               title="Resume/ Portfolio Website"
               description="Designed using Figma and built using HTML, CSS, and JS.  Website resume built for recent college graduate to encompass all the information they wished to present to employers including portfolio projects. "
-              link="https://github.com/sglover98/eport/tree/main"
+              link="https://chimerical-figolla-3198cf.netlify.app/"
             />
           </Col>
 
