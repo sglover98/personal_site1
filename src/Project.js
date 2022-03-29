@@ -1,10 +1,10 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import ProjectCard from "/Users/stanleyglover/Desktop/personal_site/src/components-projects/ProjectCard.js";
-import WeatherApp from '/Users/stanleyglover/Desktop/personal_site/src/assets/Screen Shot 2022-03-26 at 7.55.03 PM.png'
-import MagicBall from "/Users/stanleyglover/Desktop/personal_site/src/assets/Screen Shot 2022-03-28 at 1.42.31 PM.png"
-import Pokedex from "/Users/stanleyglover/Desktop/personal_site/src/assets/Screen Shot 2022-03-28 at 1.47.11 PM.png";
-import Port from "/Users/stanleyglover/Desktop/personal_site/src/assets/Screen Shot 2022-03-28 at 3.31.45 PM.png"
+import ProjectCard from "./components-projects/ProjectCard";
+import WeatherApp from '../src/assets/cyber-attack (1).png'
+import MagicBall from "../src/assets/Screen Shot 2022-03-28 at 1.42.31 PM.png"
+import Pokedex from "../src/assets/Screen Shot 2022-03-28 at 1.47.11 PM.png";
+import Port from "../src/assets/Screen Shot 2022-03-28 at 3.31.45 PM.png"
 
 
 

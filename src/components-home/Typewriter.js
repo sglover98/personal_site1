@@ -1,6 +1,6 @@
 import React from 'react'
 import Typewriter from "typewriter-effect";
-import '/Users/stanleyglover/Desktop/personal_site/src/App.js'
+import '../App.js'
  
  export default function typewriter() {
    return (

@@ -1,8 +1,8 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import github from '/Users/stanleyglover/Desktop/personal_site/src/assets/github.png';
-import linkedin from '/Users/stanleyglover/Desktop/personal_site/src/assets/linkedin.svg'
-import cms from '/Users/stanleyglover/Desktop/personal_site/src/assets/cms.png'
+import github from '../assets/github.png';
+import linkedin from '../assets/linkedin.svg'
+import cms from '../assets/cms.png'
 
 export default function About() {
   return (

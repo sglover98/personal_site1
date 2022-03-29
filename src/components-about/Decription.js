@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Lottie from "react-lottie";
-import Hacker from '/Users/stanleyglover/Desktop/personal_site/src/assets/lottie/lf20_bbfdul3x.json'
+import Hacker from '../assets/lottie/lf20_bbfdul3x.json'
 
 export default function description() {
     const defaultOptions = {
