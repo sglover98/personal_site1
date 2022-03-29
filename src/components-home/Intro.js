@@ -10,7 +10,7 @@ export default function intro() {
       <Row>
         <Col md={8} className="home-description">
           <h1 style={{ fontSize: "4.6em" }}>
-            HI There👋🏾,
+            HI There <span role="img"   aria-label={''}>👋🏾</span>,
             <br/> I'm <span className="green-text"> Stan Glover </span>!
           </h1>
           <p className="Typewriter">

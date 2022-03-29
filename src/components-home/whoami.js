@@ -50,7 +50,7 @@ export default function About() {
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
-               <a href="https://github.com/sglover98 " rel="noreferrer" alt="" target="_blank">               
+               <a href="https://github.com/sglover98 " rel="noopener noreferrer" alt="" target="_blank">               
                 <img src={github} alt=""/>
                 </a>
 
