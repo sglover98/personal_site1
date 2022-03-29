@@ -17,7 +17,7 @@ export default function Navbars() {
               <Nav.Link href="/home" >Home</Nav.Link>
               <Nav.Link href="/about" >About</Nav.Link>
               <Nav.Link href="/projects" >Projects</Nav.Link>
-              <Nav.Link href="https://www.google.com/webhp?authuser=1" >Resume</Nav.Link>
+              <Nav.Link href="www.google.com" >Resume</Nav.Link>
 
 
             </Nav>
