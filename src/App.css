@@ -6,6 +6,15 @@
   font-family: sans-serif;
 }
 
+.Skull1 {
+  width: 5vw;
+  height: 7vh;
+}
+
+.burger {
+  border-color: chartreuse;
+}
+
 .App,
 .App1 {
   background-image: url(./assets/wp3308364-hd-space-wallpaper.jpg);
@@ -115,7 +124,7 @@
     justify-content: center;
 
     left: 1vh;
-    top: 9vh;
+    top: 12vh;
   }
   .home-description {
     position: relative;
@@ -219,7 +228,10 @@
   .about-img {
     padding-top: 0 !important;
   }
-
+  .Skull1 {
+    width: 12vw !important;
+    height: 6vh !important;
+  }
   .ITSkills {
     position: relative;
     left: 10.5vh !important;
@@ -328,4 +340,3 @@
   position: relative;
   bottom: -5vh;
 }
-
