@@ -11,7 +11,7 @@ import {
 export default function itStack() {
   return (
 
-    <Row style={{ justifyContent: "center", paddingBottom: "50vh", top: '40vh', position: "relative"}}>
+    <Row className="Techrow" style={{ justifyContent: "center", paddingBottom: "50vh", top: '40vh', position: "relative"}}>
         <h1 style={{justifyContent:"center" , position: "relative"}} className='ITSkills'>IT/Networking Skills</h1>
       <Col xs={4} md={2} className="tech-icons">
         <DiAws/>

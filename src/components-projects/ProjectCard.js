@@ -19,9 +19,9 @@ export default function ProjectCard(props) {
         </Button>
         </div>
         <div className="code">
-           <Button variant="primary" href={props.link} target="_blank">
+           <Button variant="primary" href={props.link1} target="_blank">
           <BiLinkExternal /> &nbsp;
-          {props.isBlog ? "View Blog" : "</>"}
+          {props.isCode ? "View Blog" : "</>"}
         </Button>
         </div>
        

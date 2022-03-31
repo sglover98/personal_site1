@@ -27,7 +27,8 @@ export default function Project() {
               isBlog={false}
               title="EAM Design Resume/ Portfolio Website"
               description="Designed using Figma and built using HTML, CSS, and JS.  Website resume built for recent college graduate to encompass all the information they wished to present to employers including portfolio projects. "
-              link="https://chimerical-figolla-3198cf.netlify.app/"
+              link="https://jade-pixie-c88127.netlify.app"
+              link1="https://github.com/sglover98/eam.git"
             />
           </Col>
 
@@ -37,7 +38,8 @@ export default function Project() {
               isBlog={false}
               title="Weather App"
               description="Weather App built with React.js. This application utilizes a weather API to provide live weather updates based on the location inputed in the search bar. The application background also changes based on the termparture. "
-              link="https://weather-app-sglover98.vercel.app/"
+              link="https://weather-app-zeta-six.vercel.app/"
+              link1="https://github.com/sglover98/Weather-app.git"
             />
           </Col>
 
@@ -47,7 +49,8 @@ export default function Project() {
               isBlog={false}
               title="Pokedex"
               description="This application is built with React.js and uses Axios to intergrate a Pokedex api. This application is a simple application that intergrates the Pokedex API into a simple react app. "
-              link="https://github.com/sglover98/Pokedex"
+              link1="https://github.com/sglover98/Pokedex"
+              link="https://pokedex-five-ecru.vercel.app/"
             />
           </Col>
 
@@ -58,6 +61,7 @@ export default function Project() {
               title="Magic-8-Ball"
               description="The Magic 8 ball web app is built with basic Html and JS. This app allow you to type a question into the ball and returned an answer via the Yes/No API"
               link="https://magic8ball-rose.vercel.app/"
+              link1="https://github.com/sglover98/Magic8ball.git"
             />
           </Col>
 

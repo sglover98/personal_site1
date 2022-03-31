@@ -13,7 +13,7 @@
 .code {
   position: relative;
   left: 23vh;
-  bottom: 5.5vh;
+  bottom: 4.8vh;
 }
 
 .burger {
@@ -199,12 +199,16 @@
 }
 .ITSkills {
   position: relative;
-  left: 74vh !important;
+  left: 69vh !important;
+}
+.Techrow {
+  position: relative;
+  left: 3vh;
 }
 
 .TechStack {
   position: relative;
-  left: 80vh;
+  left: 74vh;
 }
 
 .tech-icons:hover {
