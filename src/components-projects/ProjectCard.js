@@ -12,10 +12,20 @@ export default function ProjectCard(props) {
         <Card.Text style={{ textAlign: "justify" }}>
           {props.description}
         </Card.Text>
-        <Button variant="primary" href={props.link} target="_blank">
+        <div>
+           <Button variant="primary" href={props.link} target="_blank">
           <BiLinkExternal /> &nbsp;
           {props.isBlog ? "View Blog" : "View Project"}
         </Button>
+        </div>
+        <div className="code">
+           <Button variant="primary" href={props.link} target="_blank">
+          <BiLinkExternal /> &nbsp;
+          {props.isBlog ? "View Blog" : "</>"}
+        </Button>
+        </div>
+       
+        
       </Card.Body>
     </Card>
   );

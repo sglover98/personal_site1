@@ -10,6 +10,11 @@
   width: 5vw;
   height: 7vh;
 }
+.code {
+  position: relative;
+  left: 23vh;
+  bottom: 5.5vh;
+}
 
 .burger {
   border-color: chartreuse;
