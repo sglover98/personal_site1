@@ -16,7 +16,7 @@ export default function Navbars() {
             <Nav className="me-auto">
               <Nav.Link href="/home" >Home</Nav.Link>
               <Nav.Link href="/about" >About</Nav.Link>
-              <Nav.Link href="/projects" >Projects</Nav.Link>
+              <Nav.Link href="./projects" >Projects</Nav.Link>
               <Nav.Link href="https://drive.google.com/file/d/1lc1Mwn6JLJv7z3Zd5kTCrKYBRlv_Tsv7/view?usp=sharing" >Resume</Nav.Link>
 
 
