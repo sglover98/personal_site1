@@ -10,15 +10,24 @@ import {
   DiJava,
   DiCss3Full,
 } from "react-icons/di";
-import {
-  SiTailwindcss,
-} from "react-icons/si";
+import { SiFigma, SiTailwindcss } from "react-icons/si";
 
 export default function Techstack() {
   return (
-
-    <Row style={{ justifyContent: "center", paddingBottom: "10vh", top: '30vh', position: "relative"}}>
-        <h1 className="TechStack" style={{justifyContent:"center" , position: "relative"}}>Software Skills</h1>
+    <Row
+      style={{
+        justifyContent: "center",
+        paddingBottom: "10vh",
+        top: "30vh",
+        position: "relative",
+      }}
+    >
+      <h1
+        className="TechStack"
+        style={{ justifyContent: "center", position: "relative" }}
+      >
+        Software Skills
+      </h1>
       <Col xs={4} md={2} className="tech-icons">
         <DiBootstrap />
       </Col>
@@ -46,13 +55,13 @@ export default function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiPython />
       </Col>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-
+      <Col xs={4} md={2} className="tech-icons">
+        <SiFigma />
+      </Col>
+      <br />
+      <br />
+      <br />
+      <br />
     </Row>
-
-    
   );
 }
